@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "未来カンパネラ",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-13T12:18:37.660647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未来カンパネラ",
+      "artist": "Azki",
+      "has_synced": false,
+      "path": "select/01_未来カンパネラ_Azki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来カンパネラ",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_未来カンパネラ_AZKi.txt"
+    }
+  ]
+}
